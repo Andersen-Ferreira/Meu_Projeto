@@ -69,8 +69,9 @@ DELETE /usuarios/{id} → Remove
 
 ## 🧪 Testes
 Você pode testar os endpoints usando:
--[] Postman
--[x] Insomnia
+- [ ] Postman
+
+- [x] Insomnia
 
 ---
 
