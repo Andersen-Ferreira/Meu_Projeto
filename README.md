@@ -81,12 +81,6 @@ src/main/java
 ├── service  
 ├── repository  
 ├── model  
-
----
-
-## 📸 Demonstração
-Adicione prints aqui (Postman ou Swagger)
-
 ---
 
 ## 👨‍💻 Autor
